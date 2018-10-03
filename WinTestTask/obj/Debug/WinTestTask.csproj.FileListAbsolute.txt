@@ -1,9 +1,0 @@
-H:\zjlTest\WinReadFile\WinTestTask\bin\Debug\WinTestTask.exe.config
-H:\zjlTest\WinReadFile\WinTestTask\bin\Debug\WinTestTask.exe
-H:\zjlTest\WinReadFile\WinTestTask\bin\Debug\WinTestTask.pdb
-H:\zjlTest\WinReadFile\WinTestTask\obj\Debug\WinTestTask.csprojResolveAssemblyReference.cache
-H:\zjlTest\WinReadFile\WinTestTask\obj\Debug\WinTestTask.Form1.resources
-H:\zjlTest\WinReadFile\WinTestTask\obj\Debug\WinTestTask.Properties.Resources.resources
-H:\zjlTest\WinReadFile\WinTestTask\obj\Debug\WinTestTask.csproj.GenerateResource.Cache
-H:\zjlTest\WinReadFile\WinTestTask\obj\Debug\WinTestTask.exe
-H:\zjlTest\WinReadFile\WinTestTask\obj\Debug\WinTestTask.pdb

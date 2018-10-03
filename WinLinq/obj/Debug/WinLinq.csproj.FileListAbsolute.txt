@@ -1,8 +1,0 @@
-H:\zjlTest\WinReadFile\WinLinq\bin\Debug\WinLinq.exe
-H:\zjlTest\WinReadFile\WinLinq\bin\Debug\WinLinq.pdb
-H:\zjlTest\WinReadFile\WinLinq\obj\Debug\WinLinq.csprojResolveAssemblyReference.cache
-H:\zjlTest\WinReadFile\WinLinq\obj\Debug\WinLinq.Form1.resources
-H:\zjlTest\WinReadFile\WinLinq\obj\Debug\WinLinq.Properties.Resources.resources
-H:\zjlTest\WinReadFile\WinLinq\obj\Debug\WinLinq.csproj.GenerateResource.Cache
-H:\zjlTest\WinReadFile\WinLinq\obj\Debug\WinLinq.exe
-H:\zjlTest\WinReadFile\WinLinq\obj\Debug\WinLinq.pdb

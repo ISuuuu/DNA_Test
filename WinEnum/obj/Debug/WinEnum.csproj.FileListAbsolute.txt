@@ -1,0 +1,8 @@
+H:\zjlTest\WinReadFile\WinEnum\bin\Debug\WinEnum.exe.config
+H:\zjlTest\WinReadFile\WinEnum\bin\Debug\WinEnum.exe
+H:\zjlTest\WinReadFile\WinEnum\bin\Debug\WinEnum.pdb
+H:\zjlTest\WinReadFile\WinEnum\obj\Debug\WinEnum.Form1.resources
+H:\zjlTest\WinReadFile\WinEnum\obj\Debug\WinEnum.Properties.Resources.resources
+H:\zjlTest\WinReadFile\WinEnum\obj\Debug\WinEnum.csproj.GenerateResource.Cache
+H:\zjlTest\WinReadFile\WinEnum\obj\Debug\WinEnum.exe
+H:\zjlTest\WinReadFile\WinEnum\obj\Debug\WinEnum.pdb

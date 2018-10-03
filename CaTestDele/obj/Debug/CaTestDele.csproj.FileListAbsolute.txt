@@ -1,0 +1,6 @@
+H:\zjlTest\WinReadFile\CaTestDele\bin\Debug\CaTestDele.exe.config
+H:\zjlTest\WinReadFile\CaTestDele\obj\Debug\CaTestDele.csprojResolveAssemblyReference.cache
+H:\zjlTest\WinReadFile\CaTestDele\bin\Debug\CaTestDele.exe
+H:\zjlTest\WinReadFile\CaTestDele\bin\Debug\CaTestDele.pdb
+H:\zjlTest\WinReadFile\CaTestDele\obj\Debug\CaTestDele.exe
+H:\zjlTest\WinReadFile\CaTestDele\obj\Debug\CaTestDele.pdb

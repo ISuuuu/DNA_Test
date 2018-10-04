@@ -44,23 +44,23 @@
     <Reference Include="System.Xml" />
     <Reference Include="UP.Data, Version=1.0.6738.23833, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\UP.Data.dll</HintPath>
+      <HintPath>..\_DllQuote\UP.Data.dll</HintPath>
     </Reference>
     <Reference Include="UP.Utils, Version=1.0.5255.33102, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\UP.Utils.dll</HintPath>
+      <HintPath>..\_DllQuote\UP.Utils.dll</HintPath>
     </Reference>
     <Reference Include="UP.Win.BaseForm, Version=1.0.6738.23839, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\UP.Win.BaseForm.dll</HintPath>
+      <HintPath>..\_DllQuote\UP.Win.BaseForm.dll</HintPath>
     </Reference>
     <Reference Include="UP.Win.Ctls, Version=1.0.6738.23838, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\UP.Win.Ctls.dll</HintPath>
+      <HintPath>..\_DllQuote\UP.Win.Ctls.dll</HintPath>
     </Reference>
     <Reference Include="UP4.Util, Version=1.0.6796.23928, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\UP4.Util.dll</HintPath>
+      <HintPath>..\_DllQuote\UP4.Util.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -133,7 +133,7 @@ namespace WinDevpressGridControl
                 textBox1.Text = "datatable.null value!=System.dbNull.value";
 
 
-            var a=from t in dt.AsEnumerable()
+           // var a=from t in dt.AsEnumerable()
 
         }
     }
